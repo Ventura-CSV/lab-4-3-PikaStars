@@ -9,6 +9,9 @@ def main():
     ########################################
     # Do not delete the return statement
     ########################################
+    i = 0
+    while i < 5:
+        
     return total
 
 
